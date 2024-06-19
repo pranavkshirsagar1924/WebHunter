@@ -1,0 +1,13 @@
+beautifulsoup4     4.12.3  
+certifi            2024.6.2
+charset-normalizer 3.3.2   
+cx_Freeze          7.1.1   
+cx_Logging         3.2.0   
+idna               3.7     
+lief               0.14.1
+pip                24.0
+requests           2.32.3
+setuptools         70.0.0
+soupsieve          2.5
+urllib3            2.2.1
+wheel              0.43.0
